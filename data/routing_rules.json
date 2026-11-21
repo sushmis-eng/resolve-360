@@ -1,0 +1,1 @@
+{"categories":{"Transaction Dispute":{"team":"Payments & Disputes"},"Account Services":{"team":"Account Support"},"Card Services":{"team":"Card Operations"},"Other":{"team":"General Support"}},"default":{"team":"General Support"},"sla_hours":{"Low":48,"Medium":24,"High":4,"Critical":1},"auto_resolution_severities":["Low"],"minimum_auto_confidence":0.6}
